@@ -48,5 +48,5 @@ At the same time, I keep broadening my full-stack skills to develop complete, fu
 ---
 
 ## 📫 Contact
-- LinkedIn: [linkedin.com/in/xeriousuy](https://www.linkedin.com/in/xeriousuy)
-- GitHub: [github.com/codewitheduardo](https://github.com/codewitheduardo)
+- LinkedIn: https://www.linkedin.com/in/xeriousuy/
+- Email: xeriousuy@gmail.com
