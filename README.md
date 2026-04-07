@@ -21,17 +21,17 @@ Opportunities to continue growing as a Backend or Full Stack Developer, helping 
 **Languages**  
 C#, Java, JavaScript, SQL, HTML5, CSS3  
 
-**Frameworks & Libraries**  
-.NET / ASP.NET, Spring Boot, React, Node.js, React Native  
+**Frameworks & Technologies**  
+.NET / ASP.NET, Spring Boot, Ionic Framework, React Native, Flutter, Node.js  
 
 **Databases**  
-SQL Server, PostgreSQL, MongoDB  
+SQL Server, SQLite, MongoDB  
 
 **Tools & Platforms**  
-Git, GitHub, Azure, AWS, Visual Studio, VS Code, SSMS, Postman, Swagger, Redux DevTools, Jest  
+Git, GitHub, Azure, AWS, Visual Studio, VS Code, Postman, Swagger, JUnit, Jest  
 
 **Additional Skills**  
-REST API development, business logic design, layered architecture, third-party API integration, functional testing, technical documentation, systems analysis, responsive web development
+REST API development, third-party API integration, responsive web development, software testing, requirements analysis, business logic implementation, technical documentation
 
 ---
 
