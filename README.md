@@ -1,52 +1,77 @@
 # 👋 Hi, I'm Eduardo Monzón
 
-Advanced IT Analyst student experienced in .NET, Java, JavaScript, Flutter, and SQL. I enjoy creating useful, organized, and sustainable software, with a particular interest in backend development and full-stack systems.
+I'm an **Information Technology Analyst student at Universidad ORT Uruguay**, based in Montevideo, with a strong interest in **backend and full-stack development**.
 
-I’m motivated by projects that bring together solid business rules, clear architecture, and technologies that help solve real problems. I’m continuously expanding my knowledge in API development, software architecture, and scalable system design.
+I enjoy building applications with clear business rules, maintainable architecture, and well-defined responsibilities. My current work focuses mainly on **REST APIs, web applications, databases, authentication, software design patterns, and third-party integrations**.
+
+I'm currently looking for my first professional opportunity in technology, where I can contribute, keep learning, and grow as a software developer.
 
 ---
 
-## 🎯 Seeking
-Opportunities to continue growing as a Backend or Full Stack Developer, helping build dependable systems, APIs, and software products that deliver meaningful value.
+## 🚀 What I'm working on
 
-## 🚀 At the moment
-- Building academic and personal projects related to web and software development
-- Deepening my understanding of backend development, RESTful services, and database modeling
-- Practicing better coding standards, project structure, and technical writing
+- Building academic and personal full-stack projects
+- Improving my skills in backend development and API design
+- Applying clean architecture principles and design patterns
+- Strengthening my knowledge of SQL and NoSQL databases
+- Learning new technologies according to each project's needs
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-C#, Java, JavaScript, SQL, HTML5, CSS3  
+### Languages
 
-**Frameworks & Technologies**  
-.NET / ASP.NET, Spring Boot, Ionic Framework, React Native, Flutter, Node.js  
+`C#` `Java` `JavaScript` `SQL` `HTML5` `CSS3`
 
-**Databases**  
-SQL Server, SQLite, MongoDB  
+### Backend
 
-**Tools & Platforms**  
-Git, GitHub, Azure, AWS, Visual Studio, VS Code, Postman, Swagger, JUnit, Jest  
+`.NET` `ASP.NET Core` `Spring Boot` `Node.js` `Express` `REST APIs` `JWT`
 
-**Additional Skills**  
-REST API development, third-party API integration, responsive web development, software testing, requirements analysis, business logic implementation, technical documentation
+### Frontend
+
+`React` `Redux Toolkit` `Bootstrap` `Tailwind CSS`
+
+### Databases
+
+`SQL Server` `MongoDB` `SQLite`
+
+### Tools and Practices
+
+`Git` `GitHub` `Postman` `Swagger` `JUnit` `Jest` `UML` `Scrum` `Clean Architecture` `Design Patterns`
 
 ---
 
-## 📂 Projects
-This profile includes projects that represent my growth and hands-on experience in backend, frontend, and full-stack development. They range from academic work to practical applications built with different tools and technologies.
+## 📌 Featured Projects
+
+### 🍳 [CookBook SPA](https://github.com/codewitheduardo/SPA-Obl_FS_mar26)
+
+React Single Page Application for managing recipes, exploring TheMealDB, saving favorites, posting comments, and generating recipes with AI. Includes Redux Toolkit, JWT authentication, role-based access, and responsive design.
+
+### 🔌 [CookBook REST API](https://github.com/codewitheduardo/API-Obl_FS_mar26)
+
+REST API built with Node.js, Express, and MongoDB for managing users, recipes, categories, comments, and favorites. Includes JWT authentication, Google Login, Cloudinary, TheMealDB, and AI-powered recipe generation.
+
+### 🏇 [MalaPATA](https://github.com/codewitheduardo/DA-2026Marzo-Grupo5-329407-306071)
+
+Horse racing betting web system built with Java and Spring Boot, featuring administrator and player roles, race management, dividends, and real-time updates through Server-Sent Events. Implements State, Observer, Command, Facade, and Strategy patterns.
 
 ---
 
-## 📈 Main Interests
-My strongest interest is in software development, especially backend-focused systems, API creation, and applications designed with clear structure and maintainable code.
+## 🎯 Professional Interests
 
-At the same time, I keep broadening my full-stack skills to develop complete, functional, and reliable solutions.
+I'm especially interested in:
+
+- Backend and full-stack development
+- REST API design and integration
+- Object-oriented design and software architecture
+- Business logic and domain modeling
+- Relational and NoSQL databases
+- Maintainable, testable, and well-documented software
 
 ---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/xeriousuy/
-- Email: xeriousuy@gmail.com
+
+- **LinkedIn:** [linkedin.com/in/xeriousuy](https://www.linkedin.com/in/xeriousuy/)
+- **Email:** [xeriousuy@gmail.com](mailto:xeriousuy@gmail.com)
